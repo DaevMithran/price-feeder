@@ -55,6 +55,9 @@ var (
 		{Base: "INJ", Quote: "USDT"}:    {},
 		{Base: "TIA", Quote: "USDT"}:    {},
 		{Base: "WSTETH", Quote: "WETH"}: {},
+		{Base: "DM", Quote: "USDT"}:     {},
+		{Base: "DM", Quote: "USDC"}:     {},
+		{Base: "USDC", Quote: "USDT"}:   {},
 	}
 
 	SupportedUniswapCurrencies = map[string]struct{}{

@@ -3,7 +3,7 @@ package oracle
 import (
 	"testing"
 
-	oracletypes "github.com/ojo-network/ojo/x/oracle/types"
+	oracletypes "github.com/DaevMithran/dmchain/x/oracle/types"
 	"github.com/stretchr/testify/require"
 )
 
